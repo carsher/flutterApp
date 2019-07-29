@@ -1,4 +1,4 @@
-# flutter_app
+# 基于Flutter仿携程APP
 
 A new Flutter application.
 
